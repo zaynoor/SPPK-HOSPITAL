@@ -1,7 +1,7 @@
 # TUBES WEBPRO
 
 Projek yang diangkat yaitu SPPK-HOSPITAL
-projek tersebut merupakan singkatan tadi Sistem Pengelolaan Pasien Korona di sebuah rumah sakit
+projek tersebut merupakan singkatan dari Sistem Pengelolaan Pasien Korona di sebuah rumah sakit
 
 fitur yang ada didalam aplikasi tersebut:
 1. CRUD Admin
